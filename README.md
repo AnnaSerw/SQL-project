@@ -6,7 +6,7 @@ This project presents a relational database built for managing gardens. I’ve c
 The database consists of the following main tables:
 -garden (information about gardens, names and creation date),
 -plants (datails about plants),
-- gardener (employee data),
+-gardener (employee data),
 -invoices (purchase data),
 -deseases (main diseases of plants).
 
