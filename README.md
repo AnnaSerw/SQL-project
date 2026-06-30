@@ -14,4 +14,4 @@ The database is designed using relational principles. Each table has a primary k
 I’ve created some views as examples of information that can be obtained.
 You can check if there are any plants without diseases.
 The next issue is to calculate employess hire lenght.
-You cacan find out the number of plants by each gardener.
+You can find out the number of plants by each gardener.
